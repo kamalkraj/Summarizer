@@ -28,7 +28,7 @@ portalocker==1.5.2
 prompt-toolkit==3.0.2
 ptyprocess==0.6.0
 pycparser==2.19
-Pygments==2.5.2
+Pygments==2.7.4
 pylint==2.4.4
 regex==2020.1.8
 requests==2.22.0
