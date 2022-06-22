@@ -19,7 +19,7 @@ Jinja2==2.10.3
 lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
-numpy==1.18.1
+numpy==1.22.0
 parso==0.5.2
 pexpect==4.7.0
 pickleshare==0.7.5
